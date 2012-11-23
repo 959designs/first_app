@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"f",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"sec",
+				"sectiontitles"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"min",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 183.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/iMAC/959/ftpsync.settings",
+		"/Users/iMAC/959/index.php",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/iMAC/959/css/resume.css",
+		"/Users/iMAC/959/steve.php",
+		"/Users/iMAC/959/ramblings/wp-content/plugins/tees/newtees.php",
+		"/Users/iMAC/959/ramblings/wp-content/plugins/tees/newtees",
+		"/Users/iMAC/959/fonts/Quicksand-fontfacekit/demo.html",
+		"/Users/iMAC/959/jesselawson/new.html",
+		"/Users/iMAC/959/jesselawson/_css/jlmstyles.css",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/iMAC/959/css/mobstyles.css",
+		"/Users/iMAC/959/portfolio/styles.css",
+		"/Users/iMAC/959/mike.php",
+		"/Users/iMAC/959/portfolio/tradeshow-case-study.html",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/iMAC/959/nfn.sublime-project",
+		"/Users/iMAC/959/.htaccess",
+		"/Users/iMAC/959/css/mikestyles.css",
+		"/Users/iMAC/959/channel.html",
+		"/Users/iMAC/959/yyy.php",
+		"/Users/iMAC/959/portfolio/broadcast-case-study.html",
+		"/Users/iMAC/959/portfolio/print-case-study.html",
+		"/Users/iMAC/959/portfolio/mobile-case-study.html",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/iMAC/959/_newimages/minimages/nfnmin.css",
+		"/Users/iMAC/959/css/nfnmin.css",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/User/ftpsync.settings",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/iMAC/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.513422778035,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"css/resume.css"
+			],
+			[
+				"nf",
+				"css/nfnmin.css"
+			],
+			[
+				"we",
+				"portfolio/web-case-study.html"
+			],
+			[
+				"br",
+				"portfolio/broadcast-case-study.html"
+			],
+			[
+				"pr",
+				"portfolio/print-case-study.html"
+			],
+			[
+				"m",
+				"portfolio/mobile-case-study.html"
+			],
+			[
+				"s",
+				"portfolio/styles.css"
+			],
+			[
+				"",
+				"portfolio/tradeshow-case-study.html"
+			],
+			[
+				"n",
+				"css/nfnmin.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}
